@@ -25,7 +25,7 @@ iframe{
     top: 80px;
     left: 22px;
     height: 471px;
-    width: 269px;
+    width: 264px;
 }
 
 section#telefone{
@@ -56,3 +56,4 @@ section#redes-sociais img:hover{
     box-shadow: 5px 5px 10px  rgba(0, 0, 0, 0.785);
     transition: transform 0.3s, border 0.5s;
 }
+
